@@ -52,4 +52,4 @@ accuracy = accuracy_score(y_test, y_pred)
 print("Accuracy of the Random Forest classifier:", accuracy)
 
 
-# Result: accuracy of the Random Forest classifier: 0.8696740010302451
+# Result: accuracy of the Random Forest classifier: 0.87
