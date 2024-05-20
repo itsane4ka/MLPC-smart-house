@@ -72,4 +72,4 @@ accuracy = accuracy_score(y_test, y_pred)
 print("Accuracy of the SVM classifier:", accuracy)
 
 
-# Result: accuracy of the SVM classifier: ?
+# Result: accuracy of the SVM classifier: 0.78
